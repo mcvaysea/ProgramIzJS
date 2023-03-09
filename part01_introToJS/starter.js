@@ -1,0 +1,115 @@
+/////////////////////////////////////////////////////////////////
+//////////////What Is JavaScript - For Beginners////////////////
+///////////////////////////////////////////////////////////////
+
+// console.log("Hello world");
+
+////////////////////JS Data Types and Variables//////////////////////////
+
+/////////////////////////////////////////
+//------strings
+/////////////////////////////////////////
+// console.log("I love JavaScript");
+// console.log('JavaScript is fun!');
+
+/////////////////////////////////////////
+//------string literals
+/////////////////////////////////////////
+// console.log(`I am learning JavaScript`);
+// console.log(`JavaScript is challenging but fun`);
+
+/////////////////////////////////////////
+//------numbers (integers and floats)
+/////////////////////////////////////////
+// console.log(8);
+// console.log(80.5);
+
+// console.log('8');
+// console.log("80.5");
+
+
+/////////////////////////////////////////
+//------JS variables
+/////////////////////////////////////////
+
+// //=======string variable
+// let language = "JavaScript";
+// console.log(language);
+// console.log("language");
+
+// //=======number variable
+// let number = 5;
+// console.log(number);
+
+// var names = "Jack";
+// console.log(names);
+
+// let myName = "Sean";
+// console.log(myName);
+// //=======myName variable is reassigned
+// myName = "Micheal";
+// console.log(myName);
+
+
+// let myName2 = "Sean";
+// let surname = "Micheals";
+
+// let fullName = (myName2 + surname);
+// console.log(fullName);
+
+// //=======const variable
+// const passportNumber = 2394109;
+// console.log(passportNumber);
+
+
+// //=======undifined variable
+// let myVariable;
+// console.log(myVariable);
+
+// // const thisName;  //<=== cannot leave const undeclared -- needs an initializer
+// // console.log(thisName);
+
+// let thisName = "This name Sean";
+// console.log(thisName);
+// thisName = undefined;
+// console.log(thisName);
+
+
+//=======variable print on a single line and concat
+
+// let city = "New York"; console.log("City: " + city);
+
+
+// let city1 = "Newark";
+// console.log(`City: ${city1}`);
+
+
+// let kfcLocations = 10;
+// console.log("City: " + city + "," + " KFC Locations: " + kfcLocations);
+// console.log(`City: ${city}, KFC Locations: ${kfcLocations}`);
+
+
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////
+//////////////Revision of JS Tutorial for Beginners/////////////////
+///////////////////////////////////////////////////////////////////
+
+////////////////////////////////////////////
+// JavaScript Tutorial for Beginners Course
+//////////////////////////////////////////
+
+//+++++++++++++++
+// HELLO WORLD
+//++++++++++++++
+
+console.log("Hello World");
+
+
+//+++++++++++++++
+// HELLO WORLD
+//++++++++++++++
